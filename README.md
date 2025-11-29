@@ -1,5 +1,12 @@
+
 <h1 align="center">Hi 👋, I'm Raja Babu</h1>
-<h3 align="center">🎓 A passionate Computer Science Engineer with a specialization in **Artificial Intelligence** from India. 💻 I enjoy building intelligent systems, solving real-world problems, and continuously learning emerging technologies.</h3>
+<h3 align="center">
+🎓 A Computer Science Engineer specializing in <strong>Artificial Intelligence</strong>.<br>
+💡 I’m passionate about <strong>AI/ML, Generative AI, Agentic AI</strong>, and building data-driven solutions.  
+📊 I enjoy working on projects in <strong>Data Science, Machine Learning, and AI automation</strong> and love turning ideas into working systems.
+</h3>
+
+
 
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/9ba1fc7a-8a7b-4664-9f76-209aa76ed832" />
 
