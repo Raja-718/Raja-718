@@ -41,7 +41,7 @@
 
 **💼 Professional Experience**
 
-🏢 &nbsp;**STEMbotix Pvt. Ltd** &nbsp;→&nbsp; `Agentic AI Intern`
+🏢 &nbsp;**STEMbotix Pvt. Ltd** &nbsp;→&nbsp; `Agentic AI Engineer`
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📅 *Dec 2025 – Present* &nbsp;|&nbsp; Gandhinagar, Gujarat
 
 🔬 &nbsp;**IIT Patna** &nbsp;→&nbsp; `Research Intern`
