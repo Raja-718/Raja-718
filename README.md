@@ -1,7 +1,6 @@
 <div align="center">
-
-<!-- BRILLIANT ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Er.%20Raja%20Babu&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=ffffff&strokeWidth=2&desc=⚡%20Agentic%20AI%20Engineer%20%7C%20🧠%20ML%20Researcher%20%7C%20🔬%20AI%20Scientist&descAlignY=62&descSize=20&descColor=00D4FF"/>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=230&section=header&text=Er.%20Raja%20Babu&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Agentic%20AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Data%20Scientist&descAlignY=65&descSize=22&descColor=00D4FF&descAlign=50"/>
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/Raja-718">
