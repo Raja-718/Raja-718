@@ -1,6 +1,9 @@
 <div align="center">
+
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=230&section=header&text=Er.%20Raja%20Babu&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Agentic%20AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Data%20Scientist&descAlignY=65&descSize=22&descColor=00D4FF&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=230&section=header&text=Er.%20Raja%20Babu&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%7C%20Agentic%20%2F%20Generative%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=65&descSize=22&descColor=00D4FF&descAlign=50"/>
+
+</div>
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/Raja-718">
@@ -33,8 +36,8 @@
 ### 👨‍💻 About Me
 
 <img src="https://img.shields.io/badge/📍%20Location-Gandhinagar%2C%20Gujarat%2C%20India-0078D4?style=flat-square&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/🎓%20Degree-B.Tech%20CSE%20(AI)%20CGPA%207.7%20|%20CSVTU%202025-7C3AED?style=flat-square"/><br/>
-<img src="https://img.shields.io/badge/💼%20Role-Agentic%20AI%20Engineer%20%26%20ML%20Researcher-EE4C2C?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎓%20Degree-B.Tech%20CSE%20(AI)|%20CSVTU%202025-7C3AED?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/💼%20Role-Agentic%20AI%20Engineer-EE4C2C?style=flat-square"/>
 
 <br/>
 
