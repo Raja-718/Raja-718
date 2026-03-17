@@ -21,7 +21,6 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=raja-718&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views"/>&nbsp;
-<img src="https://img.shields.io/github/followers/Raja-718?label=Followers&style=for-the-badge&color=7C3AED&logo=github" alt="GitHub Followers"/>&nbsp;
 <img src="https://img.shields.io/badge/Open%20To%20Work-Yes-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/>
 
 </div>
@@ -232,7 +231,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raja-718&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Raja-718&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
